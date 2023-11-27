@@ -2,9 +2,11 @@
 
 | Unity ID | Name               |
 | -------- | ------------------ |
-| agutha  | Anvitha Reddy Gutha      |
-| nbhalla  | Nainisha Bhallamudi    |
-| smylava  | Sri Vaishnavi Mylavarapu     |
+| aarajnek  | Aniruddha Rajnekar      |
+| crsrusti  | Chaitanya Srusti    |
+| magarwa3  | Mitesh Agarwal     |
+| ndoshi2  | Nisarg Doshi     |
+
 
 
 ## Part I: Scorecards
